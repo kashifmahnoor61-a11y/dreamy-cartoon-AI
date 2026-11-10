@@ -1,0 +1,12 @@
+{
+  "name": "dreamy-cartoon-ai",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "openai": "^5.0.0"
+  }
+}
